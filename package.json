@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "node index.js"
+  },
   "dependencies": {
     "nan": "^2.6.2",
     "node-expat": "^2.3.15",
